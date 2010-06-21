@@ -31,18 +31,18 @@ zeroise(now.getUTCSeconds() ,2) +
 '+00:00';
 
 edButtons[edButtons.length] =
-new edButton('ed_strong'
+new edButton('ed_b'
 ,'b'
-,'<strong>'
-,'</strong>'
+,'<b>'
+,'</b>'
 ,'b'
 );
 
 edButtons[edButtons.length] =
-new edButton('ed_em'
+new edButton('ed_i'
 ,'i'
-,'<em>'
-,'</em>'
+,'<i>'
+,'</i>'
 ,'i'
 );
 
